@@ -6,5 +6,9 @@ The purpose of the project was to get to know CoinbaseApi's operations. The endp
 
 https://time-machine-q297y4t1k-sklehti.vercel.app/
 
+## To run locally
 
+- `npm i`
+- `npm start`
+- Open the app on http://localhost:3000/
 
