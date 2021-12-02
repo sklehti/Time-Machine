@@ -14,7 +14,7 @@ const BitcoinDateRange = ({ priceOfDay }) => {
                 <tr>
                   <th>Day</th>
                   <th>EUR/BTC</th>
-                  <th>Check number</th>
+                  <th>Coinbase timestamp</th>
                 </tr>
                 {priceOfDay.map((m, index) => (
                   <tr key={index}>
