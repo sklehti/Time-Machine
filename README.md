@@ -4,7 +4,7 @@ The purpose of the project was to get to know CoinbaseApi's operations. The endp
 
 ## Live demo
 
-https://time-machine-q297y4t1k-sklehti.vercel.app/
+https://time-machine-app.vercel.app/
 
 ## To run locally
 
