@@ -1,0 +1,98 @@
+.backgroundStyle {
+  flex-wrap: wrap;
+}
+
+section {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+h2,
+h1 {
+  color: darkblue;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+h4 {
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+form {
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+p {
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+hr {
+  background-color: blue;
+  height: 5px;
+}
+
+.Logo {
+  background-image: url(./images/logo512.png);
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+
+button {
+  transition-duration: 0.4s;
+  height: 24px;
+  margin-left: 5px;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: darkgrey;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+tr:nth-child(even) {
+  background-color: lightcyan;
+}
+
+th {
+  background-color: lightgray;
+}
+
+state {
+  color: red;
+}
+
+.text {
+  text-align: center;
+  flex-wrap: wrap;
+}
